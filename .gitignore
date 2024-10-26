@@ -1,0 +1,17 @@
+/.plastic
+/.vs
+/.vscode
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Copy of Catabolt.sln
+/ignore.conf
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/Unity.2DPlatformer.Tutorials.csproj
+/Unity.Platformer.Tutorials.csproj
+/UserSettings
